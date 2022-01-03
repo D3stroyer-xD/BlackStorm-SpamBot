@@ -1,0 +1,5 @@
+build:
+  docker:
+    Black: Dockerfile
+run:
+  Black: python3 -m Gladiators.py
