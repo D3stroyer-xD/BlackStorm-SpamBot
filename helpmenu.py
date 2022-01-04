@@ -180,7 +180,7 @@ alive_temxt = f"""
 **[©️]({ALIVE_MEDIA}) @TEAM_BlackStorm**
 """
 
-glad_logo = "https://telegra.ph/file/d6aef4876f4cb8cc00bf5.jpg"
+storm_logo = "https://telegra.ph/file/d6aef4876f4cb8cc00bf5.jpg"
 
 
 start_caption = f"""
